@@ -5,7 +5,7 @@
 
 📚: **Trying to be a full stack**
 
-##Skills
+## Skills
 
 <p display="inline-flex">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -13,7 +13,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-##Tools
+## Tools
 <p display="inline-flex">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode%20-%23000099.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
